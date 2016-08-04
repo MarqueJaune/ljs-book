@@ -1,0 +1,14 @@
+{
+  "name": "learnjs",
+  "version": "1.0.0",
+  "description": "packages used throughout the book Learning JavaScript 3ed ",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Esteves",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
