@@ -1,3 +1,6 @@
+# log files
+*.log
+
 # npm debugging logs
 npm-debug.log*
 
